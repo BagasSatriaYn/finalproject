@@ -4,5 +4,6 @@ public class OurFirstGithubCollab{
    
         System.out.println("Ketua mulai mengembangkan fitur kedua");
         System.out.println("tambahan dari anggota 1");
+        System.out.println("pinjam dulu seratus");
     }
 }
